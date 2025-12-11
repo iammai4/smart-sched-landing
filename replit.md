@@ -2,7 +2,7 @@
 
 ## Overview
 
-Plan-it is a smart scheduling productivity tool landing page built as a school project. The application showcases an AI-powered task management system with workspaces and gamification features. Currently, it consists of a marketing landing page with sections for hero, features, problem/solution explanation, team contact, and footer.
+Plan-it is a smart scheduling productivity tool landing page built as a school project. The application showcases an AI-powered task management system with workspaces and gamification features. Currently, it consists of a marketing landing page with sections for hero, features, problem/solution explanation, team contact and footer.
 
 ## User Preferences
 
