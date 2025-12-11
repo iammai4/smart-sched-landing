@@ -37,4 +37,5 @@ export default defineConfig({
       deny: ["**/.*"],
     }
   },
+  base: "https://iammai4.github.io/smart-sched-landing/",
 });
